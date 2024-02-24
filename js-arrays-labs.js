@@ -144,3 +144,4 @@ numArrays.forEach(function(array) {
     })
 })
 console.log('Exercise 15 Result:\n', total);
+console.log("hello world")
